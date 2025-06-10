@@ -1,0 +1,24 @@
+{
+    "Settings": {
+        "DB": {
+            "AlgorithmDescription": "",
+            "AlgorithmName": "Алгоритм Дейкстры",
+            "DBConnection": "user=qddb_administrator password=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA7K2jfz+h3EegU+b6YqOcXgAAAAAyAAAAUABhAHMAcwB3AG8AcgBkAEgAYQBzAGgAZQByAF8ARQBuAGMAcgB5AHAAdABlAGQAAAAQZgAAAAEAACAAAACSZ2Q2hDmBP2pLfDnx77GT21LqnfpOS8ZWVjre0JOhNgAAAAAOgAAAAAIAACAAAACKlbUL6DJN6cH8cDk2p5O9Pq80O2ZsASrSb/dmigGfbSAAAAC2yyTXc+6aPz2C2IHPKIYsQV2zLVzTTaHmyVNE32fH1kAAAAD5eMm/rFrYysiTovDPT9OvmKBtGeNK3izWbe+nIDt28Fl82KsjIcTi+vrHXSAMYruZjpt2G8PdPEpJEQkwoRzr host=localhost port=5433 dbname=qddb_test",
+            "Dimensionality": [
+                2
+            ],
+            "Iterations": 1,
+            "RepresentationFile": ""
+        },
+        "File": {
+            "InputFile": ".\\data\\input.txt",
+            "OutputFile": ".\\data\\output.txt"
+        },
+        "Global": {
+            "DebugMode": "Normal",
+            "Errors": "AllErrors",
+            "Language": "ru",
+            "WorkMode": "DB"
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "main_menu": {
+        "title": "Главное меню",
+        "launch": "Начать",
+        "options": "Настройки",
+        "exit": "Выход"
+    },
+    "text_menu": {
+        "title": "Работа с текстом",
+        "text_source_menu": "Источник",
+        "text_source_params_menu": "Параметры источника",
+        "load": "Загрузить",
+        "redact": "Редактировать",
+        "check": "Проверить",
+        "load_and_check": "Загрузить и проверить",
+        "save": "Сохранить"
+    },
+    "text_source_menu": {
+        "title": "Источник",
+        "db": "База данных",
+        "file": "Файл"
+    },
+    "text_db_source_params_menu": {
+        "title": "Параметры источника (БД)",
+        "loading_params": "Параметры загрузки",
+        "db_connection_params": "Подключение к БД"
+    },
+    "text_file_source_params_menu": {
+        "title": "Параметры загрузки (файл)",
+        "file_params": "Параметры загрузки"
+    },
+    "representation_loading_form": {
+        "title": "Параметры загрузки",
+        "name": "Название:",
+        "description": "Описание:",
+        "dimensionality": "Размерность:",
+        "iterations": "Итерации:"
+    },
+    "db_connection_form": {
+        "title": "Параметры подключения",
+        "db_name": "Имя БД:",
+        "db_login": "Логин:",
+        "db_password": "Пароль:",
+        "db_host": "Хост:",
+        "db_port": "Порт:"
+    },
+    "file_params_form": {
+        "title": "Параметры загрузки",
+        "input_file": "Входной файл:",
+        "output_file": "Выходной файл:"
+    },
+    "options_menu": {
+        "title": "Настройки",
+        "check_options": "Настройки проверки",
+        "language_options": "Выбор языка"
+    },
+    "work_mode_options_menu": {
+        "title": "Настройки режима работы",
+        "until_first_error": "До первой ошибки",
+        "all_errors": "Все ошибки",
+        "all_errors_detailed": "Все ошибки (подробно)",
+        "exit": "Назад"
+    },
+    "language_options_menu": {
+        "title": "Выбор языка",
+        "russian": "Русский",
+        "english": "Английский",
+        "exit": "Назад"
+    },
+    "text_edit_window": {
+        "title": "Редактирование текста"
+    },
+    "modal_window_success_info": {
+        "title": "Оповещение",
+        "message": "Операция успешна.",
+        "ok_text": "ОК"
+    },
+    "modal_window_restart_info": {
+        "title": "Оповещение",
+        "message": "Перезапустите приложение, чтобы изменения вступили в силу.",
+        "ok_text": "ОК"
+    },
+    "modal_window_not_loaded_error": {
+        "title": "Ошибка",
+        "message": "Представление еще не загружено.",
+        "ok_text": "ОК"
+    },
+    "modal_window_load_error": {
+        "title": "Ошибка",
+        "message": "Не удалось загрузить представление. Проверьте его атрибуты или настройки подключения к базе данных (или путь к файлу).",
+        "ok_text": "OK"
+    }
+}
