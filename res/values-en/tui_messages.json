@@ -1,0 +1,93 @@
+{
+    "main_menu": {
+        "title": "Main menu",
+        "launch": "Start",
+        "options": "Options",
+        "exit": "Exit"
+    },
+    "text_menu": {
+        "title": "Work with text",
+        "text_source_menu": "Source",
+        "text_source_params_menu": "Source parameters",
+        "load": "Load",
+        "redact": "Redact",
+        "check": "Check",
+        "load_and_check": "Load and check",
+        "save": "Save"
+    },
+    "text_source_menu": {
+        "title": "Source",
+        "db": "Database",
+        "file": "File"
+    },
+    "text_db_source_params_menu": {
+        "title": "Source parameters (DB)",
+        "loading_params": "Loading parameters",
+        "db_connection_params": "DB connection parameters"
+    },
+    "text_file_source_params_menu": {
+        "title": "Loading parameters (file)",
+        "file_params": "File parameters"
+    },
+    "representation_loading_form": {
+        "title": "Loading parameters",
+        "name": "Name:",
+        "description": "Description:",
+        "dimensionality": "Dimensionality:",
+        "iterations": "Iterations:"
+    },
+    "db_connection_form": {
+        "title": "DB connection parameters",
+        "db_name": "DB name:",
+        "db_login": "Login:",
+        "db_password": "Password:",
+        "db_host": "Host:",
+        "db_port": "Port:"
+    },
+    "file_params_form": {
+        "title": "Loading parameters",
+        "input_file": "Input file:",
+        "output_file": "Output file:"
+    },
+    "options_menu": {
+        "title": "Options",
+        "check_options": "Check settings",
+        "language_options": "Language selection"
+    },
+    "work_mode_options_menu": {
+        "title": "Check settings",
+        "until_first_error": "Until first error",
+        "all_errors": "All errors",
+        "all_errors_detailed": "All errors (detailed)",
+        "exit": "Back"
+    },
+    "language_options_menu": {
+        "title": "Language selection",
+        "russian": "Russian",
+        "english": "English",
+        "exit": "Back"
+    },
+    "text_edit_form": {
+        "title": "Text editor"
+    },
+    "modal_window_success_info": {
+        "title": "Notification",
+        "message": "Operation completed successfully.",
+        "ok_text": "OK"
+    },
+    "modal_window_restart_info": {
+        "title": "Notification",
+        "message": "Restart the program to make the changes take effect.",
+        "ok_text": "OK"
+    },
+    "modal_window_not_loaded_error": {
+        "title": "Error",
+        "message": "The view is not yet loaded.",
+        "ok_text": "OK"
+    },
+    "modal_window_load_error": {
+        "title": "Error",
+        "message": "Couldn't load the view. Check its attributes or database connection settings (or file path).",
+        "ok_text": "OK"
+    }
+}

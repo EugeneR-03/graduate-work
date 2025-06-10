@@ -1,0 +1,65 @@
+{
+    "other": {
+        "string": "String",
+        "position": "Position",
+        "result": "Result",
+        "success": "✓ No errors",
+        "failure": "☓ There are errors"
+    },
+    "symbol": {
+        "opening_curly_brace": "Error: invalid character sequence",
+        "closing_curly_brace": "Error: invalid character sequence",
+        "opening_parenthesis": "Error: invalid character sequence",
+        "closing_parenthesis": "Error: invalid character sequence",
+        "comma": "Error: invalid character sequence",
+        "colon": "Error: invalid character sequence",
+        "semicolon": "Error: invalid character sequence",
+        "quotation_mark": "Error: invalid character sequence",
+        "equal_sign": "Error: invalid character sequence",
+        "comparison_sign": "Error: invalid character sequence",
+        "exclamation_mark": "Error: invalid character sequence",
+        "arithmetic_sign": "Error: invalid character sequence",
+        "logical_sign": "Error: invalid character sequence"
+    },
+    "special_identifier": {
+        "operation": "Error: invalid keyword (operation: 'op')",
+        "operand_of_unary_operation": "Error: invalid keyword (operand of unary operation: 'od')",
+        "first_operand_of_binary_operation": "Error: invalid keyword (first operand of binary operation: 'fO')",
+        "second_operand_of_binary_operation": "Error: invalid keyword (second operand of binary operation: 'sO')",
+        "v": "Error: invalid keyword (v: 'v')",
+        "no": "Error: invalid keyword (no: 'no')",
+        "real": "Error: invalid keyword (real: 'real')",
+        "solution": "Error: invalid keyword (solution: 'solution')",
+        "modulus": "Error: invalid keyword (modulus: 'abs')",
+        "square_of_number": "Error: invalid keyword (squaring: 'sqr')",
+        "square_root_of_number": "Error: invalid keyword (taking the square root: 'sqrt')"
+    },
+    "variable": {
+        "edge": "Error: invalid form of edge (edge examples: 'A(1,2)': 'A(1)')",
+        "identifier": "Error: invalid form of identifier",
+        "integer": "Error: invalid form of integer",
+        "variable": "Error: invalid form of variable"
+    },
+    "operation": {
+        "logical": "Error: invalid form of logical operation",
+        "arithmetic": "Error: invalid form of arithmetic operation",
+        "operation": "Error: invalid form of operation"
+    },
+    "string": {
+        "string": "Error: invalid structure of string",
+        "beginning": "Error: invalid start of string beginning",
+        "logical": "Error: invalid structure of logical part of string",
+        "arithmetic": "Error: invalid structure of arithmetic part of string",
+        "arithmetic_no_real_solution": "Error: invalid form of 'no real solution'"
+    },
+    "string_inner": {
+        "operation": "Error: invalid form of operation in string",
+        "first_operand_of_binary_operation": "Error: invalid form of first operand of binary operation in string",
+        "second_operand_of_binary_operation": "Error: invalid form of second operand of binary operation in string",
+        "operand_binary": "Error: invalid form of operand of binary operation in string",
+        "operand_unary": "Error: invalid form of operand of unary operation in string",
+        "operand_variable": "Error: invalid form of operand in string",
+        "operand": "Error: invalid form of operand in string",
+        "inner": "Error: invalid form of inner part of string"
+    }
+}
